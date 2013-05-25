@@ -1,0 +1,6 @@
+Code run by **YUBIN**
+Environment variable UWHPSC is /home/yubin/uwhpsc
+Environment variable MYHPSC is /home/yubin/yubinyb
+Imported numpy ok
+Imported matplotlib ok
+Imported pylab ok
